@@ -1,0 +1,36 @@
+.myDiv {
+	width:100%;
+    border-right: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+    background-color: lightgrey;
+}
+
+ul li : hover {
+    background: lightgrey;
+}
+#budgetValue{
+	
+	margin-left: 600px;
+	
+}
+#revenueValue{
+
+	margin-left: 600px;
+	
+}
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+}
+.jstreeDiv{
+	width:100%;
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid ;
+    
+}
